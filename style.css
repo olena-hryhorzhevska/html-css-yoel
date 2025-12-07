@@ -9,3 +9,19 @@
 .idname {
     font-weight: bold;
 }
+
+.div {
+    width: 120px;
+    height: 120px;
+    background-color: lightblue;
+}
+
+.span {
+    width: 120px;
+    height: 120px;
+}
+
+input {
+    width: 200px;
+    height: 200px;
+}
