@@ -1,3 +1,1 @@
-1. What are data-attributes?
-2. Block vs Inline Elements
-3. Semantic HTML
+1. Absolute vs Relative Path
