@@ -55,3 +55,15 @@ input {
   padding-left: 80px;
   padding-right: 80px;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+  padding: 0px 30px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+}
